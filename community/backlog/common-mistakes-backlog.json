@@ -677,7 +677,7 @@
     "explanation": "Recipient takes に with 教える. (Pattern set 5)",
     "id": 85,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "図書館に本を借りました。",
@@ -692,7 +692,7 @@
     "correct": "私は昨日東京に行きました。",
     "explanation": "Use past tense for past actions. (Pattern set 5)",
     "id": 87,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
