@@ -1725,7 +1725,7 @@
     "id": 288,
     "fact": "The word 'kira kira' (キラキラ) is an onomatopoeia for sparkle, often used in product names and pop culture.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 289,
@@ -1748,7 +1748,7 @@
   {
     "id": 292,
     "fact": "The term 'komorebi' (木漏れ日) describes sunlight filtering through leaves—so common it has a single word.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
