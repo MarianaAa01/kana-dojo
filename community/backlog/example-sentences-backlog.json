@@ -1059,7 +1059,7 @@
     "jlpt": "N3",
     "id": 118,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼は日本で働くためにビジネス日本語を学んでいる。",
@@ -1067,7 +1067,7 @@
     "english": "He studies business Japanese to work in Japan.",
     "jlpt": "N3",
     "id": 119,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
