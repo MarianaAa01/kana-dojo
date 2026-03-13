@@ -41,7 +41,7 @@
     "dont": "食べ終わってすぐ席を立つ",
     "note": "店でも家庭でも使える。",
     "id": 5,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -329,7 +329,7 @@
     "dont": "ゴミを放置する",
     "note": "ゴミ箱が少ない地域がある。",
     "id": 37,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -455,7 +455,7 @@
     "dont": "値段を強調する",
     "note": "謙遜表現が好まれる。",
     "id": 51,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -482,7 +482,7 @@
     "dont": "初対面でタメ口を使う",
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 54,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

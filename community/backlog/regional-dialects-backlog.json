@@ -239,7 +239,7 @@
     "note": "Used for prohibition/failure. (Set 2)",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -259,7 +259,7 @@
     "note": "Used for severe winter cold. (Set 2)",
     "id": 26,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -269,7 +269,7 @@
     "note": "Hokkaido intensifier. (Set 2)",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -279,7 +279,7 @@
     "note": "Transition/goodbye phrase. (Set 2)",
     "id": 28,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -288,7 +288,7 @@
     "region": "Fukuoka",
     "note": "Assertive friendly ending. (Set 2)",
     "id": 29,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -379,7 +379,7 @@
     "note": "Okinawan gratitude expression. (Set 2)",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -388,7 +388,7 @@
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 2)",
     "id": 39,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -859,7 +859,7 @@
     "note": "Used for severe winter cold. (Set 5)",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -869,7 +869,7 @@
     "note": "Hokkaido intensifier. (Set 5)",
     "id": 87,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -879,7 +879,7 @@
     "note": "Transition/goodbye phrase. (Set 5)",
     "id": 88,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -888,7 +888,7 @@
     "region": "Fukuoka",
     "note": "Assertive friendly ending. (Set 5)",
     "id": 89,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -999,7 +999,7 @@
     "note": "Traditional gratitude expression. (Set 5)",
     "id": 100,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -1019,7 +1019,7 @@
     "note": "Classic comedic retort (tsukkomi). (Set 6)",
     "id": 102,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "めっちゃ",
@@ -1039,7 +1039,7 @@
     "note": "Used for prohibition/failure. (Set 6)",
     "id": 104,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -1049,7 +1049,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 6)",
     "id": 105,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -1059,7 +1059,7 @@
     "note": "Used for severe winter cold. (Set 6)",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -1069,7 +1069,7 @@
     "note": "Hokkaido intensifier. (Set 6)",
     "id": 107,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -1088,7 +1088,7 @@
     "region": "Fukuoka",
     "note": "Assertive friendly ending. (Set 6)",
     "id": 109,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

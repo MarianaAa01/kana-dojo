@@ -86,7 +86,7 @@
     "english": "What?!",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Joseph Joestar",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -97,7 +97,7 @@
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Joseph Joestar",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "anime": "JoJo's Bizarre Adventure: Stone Ocean",
     "character": "Jolyne Cujoh",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 12,
@@ -116,7 +116,7 @@
     "english": "I'm going to stop being human, JoJo!",
     "anime": "JoJo's Bizarre Adventure: Phantom Blood",
     "character": "Dio Brando",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

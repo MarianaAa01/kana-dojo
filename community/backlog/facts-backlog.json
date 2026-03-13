@@ -574,7 +574,7 @@
   {
     "id": 96,
     "fact": "Japan has some of the world's oldest trees - a Japanese cedar called Jōmon Sugi on Yakushima is estimated to be 2,000-7,000 years old.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1290,13 +1290,13 @@
   {
     "id": 215,
     "fact": "Japan’s rail system is so punctual that many train companies issue delay certificates ('chien shoumeisho') for commuters.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 216,
     "fact": "The Japanese term 'shuudan ishiki' (集団意識) refers to strong group consciousness — prioritizing harmony within the group.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1686,7 +1686,7 @@
   {
     "id": 281,
     "fact": "Japan has 'kominka' farmhouses that are renovated into cafes, inns, and galleries while keeping original beams and hearths.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
